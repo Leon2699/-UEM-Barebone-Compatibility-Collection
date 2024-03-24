@@ -14,4 +14,4 @@
 
 ### Links:
 	Browser:	https://steamcommunity.com/sharedfiles/filedetails/?id=3167038116
-	Steam:		steam://openurl/https://steamcommunity.com/sharedfiles/filedetails/?id=3141747077/
+	Steam:		steam://openurl/https://steamcommunity.com/sharedfiles/filedetails/?id=3167038116/
