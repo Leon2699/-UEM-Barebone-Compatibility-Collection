@@ -4,9 +4,9 @@
 	Finished
 
 ### Compatibility:
-	UEM PAP
-	UEM hud
-	Custom UEM perks work
+    UEM PAP
+    UEM hud
+    Custom UEM perks work
     Custom EVKLA map perks are disabled
     Custom weapons from EVKLA are added to the camo list of UEM
     Gobblegums are completely random
