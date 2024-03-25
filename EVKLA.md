@@ -9,6 +9,7 @@
 	Custom UEM perks work
     Custom EVKLA map perks are disabled
     Custom weapons from EVKLA are added to the camo list of UEM
+    Gobblegums are completely random
 
 ### Links:
 	Browser:	[EVKLA](https://steamcommunity.com/sharedfiles/filedetails/?id=2400019043/)
